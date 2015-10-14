@@ -42,8 +42,8 @@ Abstract-Lines
  
 <hr>
 
-###7. midnight run - trier fly cam
-Trier Map, Map, Flyung Cam.
+###7. midnight run - Trier Flying Cam
+Trier Map, Map, Flying Cam.
 ![images/midnightRun_trierMap_Flying.png](images/midnightRun_trierMap_Flying.png)     
  
 <hr>
@@ -82,6 +82,7 @@ Drone Data, Map
 ###13. Oddity - liveCam
 Web Cam Video, Video
 ![images/oddity_liveCam.png](images/oddity_liveCam.png)     
+![images/oddity_liveCam_01.png](images/oddity_liveCam_01.png)     
 
 
 <hr>
