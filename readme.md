@@ -23,7 +23,7 @@ Abstract, Generative, FFT, LiveCam
  
 
 ###6. India - india
-![images/india-tower.png](images/india-tower.png)     
+![images/india-india-tower.png](images/india-india-tower.png)     
  
 
 ###7. midnight run - trier fly cam
