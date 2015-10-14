@@ -3,13 +3,13 @@
 Abstract, Generative, FFT, LiveCam, Glitch Effect     
  
 
- ###1. Winter - winterGrunge
+###1. Winter - winterGrunge
  Grunge-Frame, Abstract-Lines, Abstract-Shapes
 ![images/winter-grunge.png](images/winter-grunge.png)     
  
 <hr>
 
- ###2. shell beach - live glitch
+###2. shell beach - live glitch
  LiveCam, Kinect, GlitchEffect
 ![iamges/shellBeach_liveGlitch.png](images/shellBeach_liveGlitch.png)     
  
