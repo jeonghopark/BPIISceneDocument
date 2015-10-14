@@ -19,7 +19,8 @@ Abstract, Generative, FFT, LiveCam, Glitch Effect
 
 ###3. Thingy - labyrinth
 Particles, Abstract-Lines
-![images/thingy-labyrinth.png](images/thingy-labyrinth.png)     
+![images/thingy-labyrinth_01.png](images/thingy-labyrinth_01.png)     
+![images/thingy-labyrinth_02.png](images/thingy-labyrinth_02.png)     
  
 <hr>
 
