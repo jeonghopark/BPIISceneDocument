@@ -12,7 +12,9 @@ Abstract, Generative, FFT, LiveCam, Glitch Effect
 ###2. shell beach - live glitch
  LiveCam, Kinect, GlitchEffect
 ![iamges/shellBeach_liveGlitch.png](images/shellBeach_liveGlitch.png)     
- 
+ ![iamges/shellBeach_liveGlitch_05.png](images/shellBeach_liveGlitch_05.png)     
+ ![iamges/shellBeach_liveGlitch_06.png](images/shellBeach_liveGlitch_06.png)     
+
  <hr>
 
 ###3. Thingy - labyrinth
