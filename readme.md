@@ -1,5 +1,6 @@
-##Binary Patina II sketch
+##Binary Patina II scene sketch
 
+Abstract, Generative, FFT, LiveCam 
 
  ###1. Winter
 ![images/winter-grunge.png](images/winter-grunge.png)     
