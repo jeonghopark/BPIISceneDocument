@@ -4,6 +4,11 @@ Abstract, Generative, FFT, LiveCam, Glitch Effect
 
 <hr>
 
+Source Code : oF 0.9, Xcode 7.0, osx 10.11
+[https://github.com/jeonghopark/BinaryPatinaII](https://github.com/jeonghopark/BinaryPatinaII)
+
+<hr>
+
 #### default callibration setting
 [https://github.com/jeonghopark/BPII_Calibration](https://github.com/jeonghopark/BPII_Calibration)
 
