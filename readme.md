@@ -1,10 +1,12 @@
 ##Binary Patina II scene sketch
 
-Abstract, Generative, FFT, LiveCam, Glitch Effect     
+Abstract, Generative, FFT, LiveCam, Glitch Effect, Visual Performance     
+
+All Source Code : oF 0.9, Xcode 7.1, osx 10.11 (Mac)
 
 <hr>
 
-Source Code : oF 0.9, Xcode 7.0, osx 10.11
+####Main Code : 
 [https://github.com/jeonghopark/BinaryPatinaII](https://github.com/jeonghopark/BinaryPatinaII)
 
 <hr>
