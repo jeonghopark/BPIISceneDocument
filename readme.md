@@ -23,7 +23,7 @@ sourceCode : [https://github.com/jeonghopark/GlungeWinter](https://github.com/je
 
 ###2. shell beach - live glitch
 sourceCode : [https://github.com/jeonghopark/LiveCamGlitch](https://github.com/jeonghopark/LiveCamGlitch)    
- LiveCam, Kinect, GlitchEffect
+ LiveCam, Kinect, GlitchEffect    
 ![iamges/shellBeach_liveGlitch.png](images/shellBeach_liveGlitch.png)     
  ![iamges/shellBeach_liveGlitch_05.png](images/shellBeach_liveGlitch_05.png)     
  ![iamges/shellBeach_liveGlitch_06.png](images/shellBeach_liveGlitch_06.png)     
@@ -31,7 +31,8 @@ sourceCode : [https://github.com/jeonghopark/LiveCamGlitch](https://github.com/j
  <hr>
 
 ###3. Thingy - labyrinth
-Particles, Abstract-Lines
+sourceCode : [https://github.com/jeonghopark/Labyrinth](https://github.com/jeonghopark/Labyrinth)    
+Particles, Abstract-Lines    
 ![images/thingy-labyrinth_01.png](images/thingy-labyrinth_01.png)     
 ![images/thingy-labyrinth_02.png](images/thingy-labyrinth_02.png)     
  
