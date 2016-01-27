@@ -20,17 +20,17 @@ All Source Code : oF 0.9, Xcode 7.1, osx 10.11 (Mac)
 sourceCode : [https://github.com/jeonghopark/GlungeWinter](https://github.com/jeonghopark/GlungeWinter)    
 
  Grunge-Frame, Abstract-Lines, Abstract-Shapes    
-![images/winter-grunge.png](images/winter-grunge.png)     
+![images/winter-grunge.jpg](images/winter-grunge.jpg)     
  
 <hr>
 
 ###2. shell beach - live glitch
 sourceCode : [https://github.com/jeonghopark/LiveCamGlitch](https://github.com/jeonghopark/LiveCamGlitch)    
 
- LiveCam, Kinect, GlitchEffect    
-![iamges/shellBeach_liveGlitch.png](images/shellBeach_liveGlitch.png)     
- ![iamges/shellBeach_liveGlitch_05.png](images/shellBeach_liveGlitch_05.png)     
- ![iamges/shellBeach_liveGlitch_06.png](images/shellBeach_liveGlitch_06.png)     
+ LiveCam, GlitchEffect    
+![iamges/shellBeach_liveGlitch.jpg](images/shellBeach_liveGlitch.jpg)     
+ ![iamges/shellBeach_liveGlitch_05.jpg](images/shellBeach_liveGlitch_05.jpg)     
+ ![iamges/shellBeach_liveGlitch_06.jpg](images/shellBeach_liveGlitch_06.jpg)     
 
  <hr>
 
@@ -38,8 +38,8 @@ sourceCode : [https://github.com/jeonghopark/LiveCamGlitch](https://github.com/j
 sourceCode : [https://github.com/jeonghopark/Labyrinth](https://github.com/jeonghopark/Labyrinth)    
 
 Particles, Abstract-Lines    
-![images/thingy-labyrinth_01.png](images/thingy-labyrinth_01.png)     
-![images/thingy-labyrinth_02.png](images/thingy-labyrinth_02.png)     
+![images/thingy-labyrinth_01.jpg](images/thingy-labyrinth_01.jpg)     
+![images/thingy-labyrinth_02.jpg](images/thingy-labyrinth_02.jpg)     
  
 <hr>
 
@@ -47,19 +47,19 @@ Particles, Abstract-Lines
 sourceCode : [https://github.com/jeonghopark/FFTShape](https://github.com/jeonghopark/FFTShape)    
 
 FFT-Shape, Frame    
-![images/newestDub_fftShapes.png](images/newestDub_fftShapes.png)     
+![images/newestDub_fftShapes.jpg](images/newestDub_fftShapes.jpg)     
  
  <hr>
 
 ###5. Fiona - pluto
 Pluto-moon-earth--...
-![images/fiona-pluto.png](images/fiona-pluto.png)     
+![images/fiona-pluto.jpg](images/fiona-pluto.jpg)     
  
 <hr>
 
 ###6. India - india
 Abstract-Lines
-![images/india-india-tower.png](images/india-india-tower.png)     
+![images/india-india-tower.jpg](images/india-india-tower.jpg)     
  
 <hr>
 
@@ -67,7 +67,7 @@ Abstract-Lines
 sourceCode : [https://github.com/jeonghopark/OSMJsonMapFlying](https://github.com/jeonghopark/OSMJsonMapFlying)     
 
 Trier Map, Map, Flying Cam.    
-![images/midnightRun_trierMap_Flying.png](images/midnightRun_trierMap_Flying.png)     
+![images/midnightRun_trierMap_Flying.jpg](images/midnightRun_trierMap_Flying.jpg)     
  
 <hr>
 
@@ -75,26 +75,26 @@ Trier Map, Map, Flying Cam.
 sourceCode : [https://github.com/jeonghopark/CubicMapFlying](https://github.com/jeonghopark/CubicMapFlying)    
 
 CubicMap, FlyingCam, Particles    
-![iamges/glasscherben_cubicmapFlying.png](images/glasscherben_cubicmapFlying.png)     
+![iamges/glasscherben_cubicmapFlying.jpg](images/glasscherben_cubicmapFlying.jpg)     
  
 <hr>
 
 
 ###9. Stringer - moonCreator
 Abstract-Sphere 
-![images/Stringer_moonCreator.png](images/Stringer_moonCreator.png)     
+![images/Stringer_moonCreator.jpg](images/Stringer_moonCreator.jpg)     
  
 <hr>
 
 ###10. Blowfiles - LiveVideo
 LiveCam, Abstract-Lines
-![images/Blowfiles_lineVideo.png](images/Blowfiles_lineVideo.png)     
+![images/Blowfiles_lineVideo.jpg](images/Blowfiles_lineVideo.jpg)     
  
 <hr>
 
 ###11.  GranuDub - movingFrame
 Moving Text, Particles, Abstract-Lines
-![iamges/granudub_movingFrame.png](images/granudub_movingFrame.png)     
+![iamges/granudub_movingFrame.jpg](images/granudub_movingFrame.jpg)     
  
  <hr>
 
@@ -102,20 +102,18 @@ Moving Text, Particles, Abstract-Lines
 sourceCode : [https://github.com/jeonghopark/DronAttack](https://github.com/jeonghopark/DronAttack)    
 
 Drone Data, Map
-![images/patina_drone.png](images/patina_drone.png)     
+![images/patina_drone.jpg](images/patina_drone.jpg)     
  
  <hr>
 
 ###13. Oddity - liveCam
 Web Cam Video, Video
-![images/oddity_liveCam.png](images/oddity_liveCam.png)     
-![images/oddity_liveCam_01.png](images/oddity_liveCam_01.png)     
+![images/oddity_liveCam.jpg](images/oddity_liveCam.jpg)     
+![images/oddity_liveCam_01.jpg](images/oddity_liveCam_01.jpg)     
 
 
 <hr>
 
-###kinectNightVision.png
-![images/kinectNightVision.png](images/kinectNightVision.png)
-![images/kinectNightVision_02.png](images/kinectNightVision_02.png)
-
-
+###kinectNightVision.jpg
+![images/kinectNightVision.jpg](images/kinectNightVision.jpg)
+![images/kinectNightVision_02.jpg](images/kinectNightVision_02.jpg)
